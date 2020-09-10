@@ -1,0 +1,44 @@
+#shopPageMainBox{
+  margin: auto;
+  width: 90%;
+}
+.shopCover{
+  /* background-color:#5c6bc0; */
+  margin-top: 10px;
+  height:320px;
+}
+
+.ShopProfilePhoto{
+  border: 15px;
+  height: 100px;
+  width: 100px;
+  margin-left: 25px;
+  margin-top: 15px;
+}
+
+.itemPaper {
+  margin-top: 50px;
+}
+
+.itemCover{
+  margin-top: 20px;
+  height:420px;
+}
+
+.ShopItemPhoto{
+  height: 200px;
+  width: 450px;
+}
+
+#buttonColorBuy {
+  /* border: 2px solid black; */
+  background-color: darkblue;
+  color: white;
+}
+
+#buttonColorCard {
+  background-color: darkblue;
+  color: white;
+  margin-left: 20px;
+
+}
